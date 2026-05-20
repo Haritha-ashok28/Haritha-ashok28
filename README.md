@@ -102,7 +102,7 @@ When I'm not wrangling SQL or building pipelines, you'll find me:
 - 🏸 Playing badminton, table tennis, or throwball — I'm competitive in the best way
 - 💃 Dancing — it's my reset button after a long day of debugging
 - 🍳 Cooking and experimenting in the kitchen (data pipelines and recipes have more in common than you'd think)
-- 🛍️ Exploring new products and apps obsessively — I'm always that person saying *"someone should build this"*
+- 🛍️ Exploring new products and apps obsessively — always reverse-engineering how they work and sketching what I'd build next
 - 🌱 Slowly but surely exploring Toronto and calling Canada home
 
 I'm genuinely excited about the intersection of data and product — the reason I got into data engineering isn't just pipelines, it's because good data is what makes great products possible. One day I'd love to build something of my own.
